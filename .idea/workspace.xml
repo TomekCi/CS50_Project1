@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a360ffc6-4620-4282-b344-6d81b2d323ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZuV3EQiEWt6YZFxKWEEzMxi1Ht" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CS50_P1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tomasz\PycharmProjects\CS50_Project1\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS50_Project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_APP" value="CS50_Project1" />
+        <env name="FLASK_DEBUG" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Tomasz\PycharmProjects\CS50_Project1\project\__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="CS50_Project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS50_Project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="CS50_Project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="CS50_Project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="CS50_Project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a360ffc6-4620-4282-b344-6d81b2d323ff" name="Default Changelist" comment="" />
+      <created>1585688764633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585688764633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="287" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585773912821">
+      <screen x="0" y="0" width="2482" height="1080" />
+    </state>
+    <state x="287" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2482.1080@0.0.2482.1080" timestamp="1585773912821" />
+    <state x="564" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585948416123">
+      <screen x="0" y="0" width="2482" height="1080" />
+    </state>
+    <state x="564" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2482.1080@0.0.2482.1080" timestamp="1585948416123" />
+    <state x="567" y="305" key="EnvironmentVariablesDialog" timestamp="1585772469515">
+      <screen x="0" y="0" width="2482" height="1080" />
+    </state>
+    <state x="567" y="305" key="EnvironmentVariablesDialog/0.0.2482.1080@0.0.2482.1080" timestamp="1585772469515" />
+    <state x="360" y="238" key="FileChooserDialogImpl" timestamp="1586114999917">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="360" y="238" key="FileChooserDialogImpl/0.0.1458.864@0.0.1458.864" timestamp="1586114999917" />
+    <state x="613" y="298" key="FileChooserDialogImpl/0.0.2482.1080@0.0.2482.1080" timestamp="1585932260591" />
+    <state width="1437" height="221" key="GridCell.Tab.0.bottom" timestamp="1586037499562">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1437" height="221" key="GridCell.Tab.0.bottom/0.0.1458.864@0.0.1458.864" timestamp="1586037499562" />
+    <state width="1631" height="291" key="GridCell.Tab.0.bottom/0.0.2482.1080@0.0.2482.1080" timestamp="1585950775234" />
+    <state width="1437" height="221" key="GridCell.Tab.0.center" timestamp="1586037499562">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1437" height="221" key="GridCell.Tab.0.center/0.0.1458.864@0.0.1458.864" timestamp="1586037499562" />
+    <state width="1631" height="291" key="GridCell.Tab.0.center/0.0.2482.1080@0.0.2482.1080" timestamp="1585950775234" />
+    <state width="1437" height="221" key="GridCell.Tab.0.left" timestamp="1586037499562">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1437" height="221" key="GridCell.Tab.0.left/0.0.1458.864@0.0.1458.864" timestamp="1586037499562" />
+    <state width="1631" height="291" key="GridCell.Tab.0.left/0.0.2482.1080@0.0.2482.1080" timestamp="1585950775234" />
+    <state width="1437" height="221" key="GridCell.Tab.0.right" timestamp="1586037499562">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1437" height="221" key="GridCell.Tab.0.right/0.0.1458.864@0.0.1458.864" timestamp="1586037499562" />
+    <state width="1631" height="291" key="GridCell.Tab.0.right/0.0.2482.1080@0.0.2482.1080" timestamp="1585950775234" />
+    <state width="1437" height="277" key="GridCell.Tab.1.bottom" timestamp="1586031039637">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1437" height="277" key="GridCell.Tab.1.bottom/0.0.1458.864@0.0.1458.864" timestamp="1586031039637" />
+    <state width="1643" height="363" key="GridCell.Tab.1.bottom/0.0.2482.1080@0.0.2482.1080" timestamp="1585775608850" />
+    <state width="1437" height="277" key="GridCell.Tab.1.center" timestamp="1586031039637">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1437" height="277" key="GridCell.Tab.1.center/0.0.1458.864@0.0.1458.864" timestamp="1586031039637" />
+    <state width="1643" height="363" key="GridCell.Tab.1.center/0.0.2482.1080@0.0.2482.1080" timestamp="1585775608850" />
+    <state width="1437" height="277" key="GridCell.Tab.1.left" timestamp="1586031039637">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1437" height="277" key="GridCell.Tab.1.left/0.0.1458.864@0.0.1458.864" timestamp="1586031039637" />
+    <state width="1643" height="363" key="GridCell.Tab.1.left/0.0.2482.1080@0.0.2482.1080" timestamp="1585775608850" />
+    <state width="1437" height="277" key="GridCell.Tab.1.right" timestamp="1586031039637">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1437" height="277" key="GridCell.Tab.1.right/0.0.1458.864@0.0.1458.864" timestamp="1586031039637" />
+    <state width="1643" height="363" key="GridCell.Tab.1.right/0.0.2482.1080@0.0.2482.1080" timestamp="1585775608850" />
+    <state x="311" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1586097893002">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="311" y="294" key="com.intellij.ide.util.TipDialog/0.0.1458.864@0.0.1458.864" timestamp="1586097893002" />
+    <state x="530" y="367" key="com.intellij.ide.util.TipDialog/0.0.2482.1080@0.0.2482.1080" timestamp="1586009877489" />
+  </component>
+</project>
